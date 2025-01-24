@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michal Romero</h1>
-<h3 align="center">A graduate passionate about software engeneering and game development</h3>
+<h3 align="center">I am passionate about software engeneering and game development</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
-
-- 🔭 I’m currently working on **"Pixel Blast: Survial" game**
-
-- 🌱 I’m currently learning **Pygame**
 
 - 📫 How to reach me **michal.romero02@gmail.com**
 
